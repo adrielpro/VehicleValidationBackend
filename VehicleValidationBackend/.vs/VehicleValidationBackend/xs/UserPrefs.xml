@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{ABC011F4-E854-4B1E-B7A3-95D8CC7D6A00}|Default">
+  <MonoDevelop.Ide.ItemProperties.VehicleValidationBackend PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VehicleValidationBackend/Properties/launchSettings.json">
+    <Files>
+      <File FileName="VehicleValidationBackend/Startup.cs" Line="46" Column="15" />
+      <File FileName="VehicleValidationBackend/Program.cs" Line="14" Column="6" />
+      <File FileName="VehicleValidationBackend/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="VehicleValidationBackend/appsettings.json" Line="1" Column="1" />
+      <File FileName="VehicleValidationBackend/Properties/launchSettings.json" Line="24" Column="30" />
+      <File FileName="VehicleValidationBackend/Controllers/VehicleRequestController.cs" Line="34" Column="1" />
+      <File FileName="VehicleValidationBackend/Classes/Enums/Enumeration.cs" Line="17" Column="10" />
+      <File FileName="VehicleValidationBackend/Models/VehicleRequest.cs" Line="1" Column="1" />
+      <File FileName="VehicleValidationBackend/Models/ProcessVehicleResponse.cs" Line="1" Column="1" />
+      <File FileName="VehicleValidationBackend/Classes/VehicleRequestHandler.cs" Line="20" Column="1" />
+      <File FileName="VehicleValidationBackend/Classes/ModelsValidator.cs" Line="1" Column="1" />
+      <File FileName="VehicleValidationBackend/Classes/Enums/VehicleValidationResultCode.cs" Line="1" Column="1" />
+      <File FileName="web-api-test/VehicleRequestControllerTest.cs" Line="41" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adrian/Desktop/Proyectos/VehicleValidationBackend/VehicleValidationBackend/VehicleValidationBackend/Controllers/VehicleRequestController.cs" relfile="VehicleValidationBackend/Controllers/VehicleRequestController.cs" line="34" column="1" />
+      <Breakpoint file="/Users/adrian/Desktop/Proyectos/VehicleValidationBackend/VehicleValidationBackend/VehicleValidationBackend/Classes/VehicleRequestHandler.cs" relfile="VehicleValidationBackend/Classes/VehicleRequestHandler.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Adrian Gonzalez Hernandez" Email="adgonzalezhdez@gmail.com" Copyright="" Company="" Trademark="" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Prueba" Name="Prueba">
+      <Items>
+        <StartupItem ItemId="{ABC011F4-E854-4B1E-B7A3-95D8CC7D6A00}" ItemName="VehicleValidationBackend" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
